@@ -8,7 +8,7 @@ get '/' do
 
   else
 
-    "Sin permiso"
+    "Sin Permiso"
 
   end
 
